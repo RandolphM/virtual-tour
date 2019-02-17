@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 553d549ecea28334f95174420850b4c5
+timeCreated: 1510841099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: S:Head
+    100002: S:HeadEnd
+    100004: S:Hips
+    100006: S:LeftArm
+    100008: S:LeftEye
+    100010: S:LeftFingerBase
+    100012: S:LeftFoot
+    100014: S:LeftForeArm
+    100016: S:LeftHand
+    100018: S:LeftHandIndex1
+    100020: S:LeftHandIndex2
+    100022: S:LeftHandIndex3
+    100024: S:LeftHandIndex4
+    100026: S:LeftHandMiddle1
+    100028: S:LeftHandMiddle2
+    100030: S:LeftHandMiddle3
+    100032: S:LeftHandMiddle4
+    100034: S:LeftHandPinky1
+    100036: S:LeftHandPinky2
+    100038: S:LeftHandPinky3
+    100040: S:LeftHandPinky4
+    100042: S:LeftHandRing1
+    100044: S:LeftHandRing2
+    100046: S:LeftHandRing3
+    100048: S:LeftHandRing4
+    100050: S:LeftHandThumb1
+    100052: S:LeftHandThumb2
+    100054: S:LeftHandThumb3
+    100056: S:LeftHandThumb4
+    100058: S:LeftLeg
+    100060: S:LeftShoulder
+    100062: S:LeftToeBase
+    100064: S:LeftToeEnd
+    100066: S:LeftUpLeg
+    100068: S:Neck
+    100070: S:Reference
+    100072: S:RightArm
+    100074: S:RightEye
+    100076: S:RightFingerBase
+    100078: S:RightFoot
+    100080: S:RightForeArm
+    100082: S:RightHand
+    100084: S:RightHandIndex1
+    100086: S:RightHandIndex2
+    100088: S:RightHandIndex3
+    100090: S:RightHandIndex4
+    100092: S:RightHandMiddle1
+    100094: S:RightHandMiddle2
+    100096: S:RightHandMiddle3
+    100098: S:RightHandMiddle4
+    100100: S:RightHandPinky1
+    100102: S:RightHandPinky2
+    100104: S:RightHandPinky3
+    100106: S:RightHandPinky4
+    100108: S:RightHandRing1
+    100110: S:RightHandRing2
+    100112: S:RightHandRing3
+    100114: S:RightHandRing4
+    100116: S:RightHandThumb1
+    100118: S:RightHandThumb2
+    100120: S:RightHandThumb3
+    100122: S:RightHandThumb4
+    100124: S:RightLeg
+    100126: S:RightShoulder
+    100128: S:RightToeBase
+    100130: S:RightToeEnd
+    100132: S:RightUpLeg
+    100134: S:Spine
+    100136: S:Spine1
+    100138: S:Spine2
+    100140: //RootNode
+    400000: S:Head
+    400002: S:HeadEnd
+    400004: S:Hips
+    400006: S:LeftArm
+    400008: S:LeftEye
+    400010: S:LeftFingerBase
+    400012: S:LeftFoot
+    400014: S:LeftForeArm
+    400016: S:LeftHand
+    400018: S:LeftHandIndex1
+    400020: S:LeftHandIndex2
+    400022: S:LeftHandIndex3
+    400024: S:LeftHandIndex4
+    400026: S:LeftHandMiddle1
+    400028: S:LeftHandMiddle2
+    400030: S:LeftHandMiddle3
+    400032: S:LeftHandMiddle4
+    400034: S:LeftHandPinky1
+    400036: S:LeftHandPinky2
+    400038: S:LeftHandPinky3
+    400040: S:LeftHandPinky4
+    400042: S:LeftHandRing1
+    400044: S:LeftHandRing2
+    400046: S:LeftHandRing3
+    400048: S:LeftHandRing4
+    400050: S:LeftHandThumb1
+    400052: S:LeftHandThumb2
+    400054: S:LeftHandThumb3
+    400056: S:LeftHandThumb4
+    400058: S:LeftLeg
+    400060: S:LeftShoulder
+    400062: S:LeftToeBase
+    400064: S:LeftToeEnd
+    400066: S:LeftUpLeg
+    400068: S:Neck
+    400070: S:Reference
+    400072: S:RightArm
+    400074: S:RightEye
+    400076: S:RightFingerBase
+    400078: S:RightFoot
+    400080: S:RightForeArm
+    400082: S:RightHand
+    400084: S:RightHandIndex1
+    400086: S:RightHandIndex2
+    400088: S:RightHandIndex3
+    400090: S:RightHandIndex4
+    400092: S:RightHandMiddle1
+    400094: S:RightHandMiddle2
+    400096: S:RightHandMiddle3
+    400098: S:RightHandMiddle4
+    400100: S:RightHandPinky1
+    400102: S:RightHandPinky2
+    400104: S:RightHandPinky3
+    400106: S:RightHandPinky4
+    400108: S:RightHandRing1
+    400110: S:RightHandRing2
+    400112: S:RightHandRing3
+    400114: S:RightHandRing4
+    400116: S:RightHandThumb1
+    400118: S:RightHandThumb2
+    400120: S:RightHandThumb3
+    400122: S:RightHandThumb4
+    400124: S:RightLeg
+    400126: S:RightShoulder
+    400128: S:RightToeBase
+    400130: S:RightToeEnd
+    400132: S:RightUpLeg
+    400134: S:Spine
+    400136: S:Spine1
+    400138: S:Spine2
+    400140: //RootNode
+    7400000: CECO_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
